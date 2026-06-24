@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "PostMini — Lightweight API Client",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Lightweight Postman alternative in Chrome Side Panel. Send REST requests, view responses, history & cURL export.",
   "permissions": [
     "storage",
